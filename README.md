@@ -6,7 +6,7 @@
 
 📍**Other languages I write in**:
   - C#
-  - JavaScrpit
+  - JavaScript
   - HTML
   - C++
   - SQL
