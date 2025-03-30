@@ -3,13 +3,14 @@
  ⚡**My main languages**:
   - Java
   - Python
+  - C#
 
 📍**Other languages I write in**:
-  - C#
   - JavaScript
-  - HTML
   - C++
   - SQL
+  - Bash/Batch
+  - HTML
 
 🧮**Environments**:
   - Unity
@@ -17,11 +18,12 @@
   - GitHub
   - Mirro
 
-🖥️**Favorite IDEA**: JetBrains
+🖥️**Favorite IDEA**: JetBrains (VS Code is ok too)
 
 🌱**I’m currently learning**:
   - Unreal Engine
   - Django
+  - React
 
 <!--
 **jaho123i/jaho123i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
