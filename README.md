@@ -18,7 +18,7 @@
   - GitHub
   - Mirro
 
-🖥️**Favorite IDEA**: JetBrains (VS Code is ok too)
+🖥️**Favorite IDEA**: JetBrains (Visual Studio is ok too)
 
 🌱**I’m currently learning**:
   - Unreal Engine
